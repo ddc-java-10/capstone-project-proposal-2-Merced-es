@@ -54,4 +54,4 @@ Key functional aspects of the server include daily data and progress updates, ex
     
 ## Stretch goals/possible enhancements 
 
-The banking API is a stretch goal that would allow access to a user's bank acount to track transactions. This API would allow for less manual data input on the user's end. The banking API would also require special security measures to ensure confidentiality.
+The banking API is a stretch goal that would allow access to a user's bank acount to track transactions. This API would allow for less manual data input on the user's end. OpenBankProject.com has an open source transaction API that may work. Their sandbox is free to use for testing, however using live data may be subject to charges depending on the bank. To learn more about pricing, they must be contacted. A free API would make this possible. 
