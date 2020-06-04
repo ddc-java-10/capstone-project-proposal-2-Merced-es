@@ -4,6 +4,6 @@ show_downloads: true
 titles_from_headings:
   enabled: false
 author:
-  name: "Java+Android Student"
-  href: "https://ddc-java.github.io"
+  name: "Mercedes Garcia"
+  href: "git@github.com:ddc-java-10/capstone-project-proposal-2-Merced-es.git"
   
